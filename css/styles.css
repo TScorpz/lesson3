@@ -1,0 +1,16 @@
+#signup-form {
+    background-color: #bdb4af;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    border: 2px solid;
+}
+h1 {
+	color: #aa7572;
+	text-shadow: 2px 2px #847067;
+}
+.warning {
+  display: none;
+  font-size: 12px;
+  color: #bb3333;
+}
